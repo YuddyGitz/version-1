@@ -9,6 +9,9 @@ body{
     margin: 1rem 1rem;
 }
 .features {
-    background-color: browm;
+    background-color: brown;
     color: white;
+}
+.contact{
+    background-color: green;
 }
